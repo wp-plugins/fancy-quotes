@@ -1,0 +1,22 @@
+div.fancy-quote {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	border: 1px solid #aaa;
+}
+
+div.fancy-quote div {
+    /* not used, but available to you to use */
+}
+
+div.fancy-quote blockquote {
+  font-size: 1.2em;
+  line-height: 1.5em;
+	margin: 0.5em;
+	margin-bottom: -16px;
+	padding-bottom: 1.0em;
+	padding-top: 0.5em;
+	border: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: url(images/bq.png) bottom left no-repeat;
+}
